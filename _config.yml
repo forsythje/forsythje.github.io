@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Jenna Forsyth"
-  avatar           : "profile.png"
-  bio              : "jforsyth [at] stanford [dot] edu"
+  avatar           : "jforsyth.jpg"
+  bio              : #"jforsyth [at] stanford [dot] edu"
   location         : #"Location"
-  employer         :
+  employer         : #"Stanford" #https://profiles.stanford.edu/jenna-forsyth"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Forsyth+JE&cauthor_id=33727278"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pXb7jOwAAAAJ"
-  email            :
+  email            : "jforsyth@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://profiles.stanford.edu/jenna-forsyth
   bitbucket        :
   codepen          :
   dribbble         :
