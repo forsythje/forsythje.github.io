@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jenna Forsyth"
   avatar           : "jforsyth.jpg"
-  bio              : #"jforsyth [at] stanford [dot] edu"
+  bio              : " "
   location         : #"Location"
   employer         : #"Stanford" #https://profiles.stanford.edu/jenna-forsyth"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Forsyth+JE&cauthor_id=33727278"
