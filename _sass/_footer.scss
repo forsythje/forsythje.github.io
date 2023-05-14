@@ -20,8 +20,13 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  // background-color: $lighter-gray;
+  // background: mix(#000, $masthead-bg-color, 10%);
+  background: $code-background-color;
+  // border-top: 1px solid $light-gray;
+  // box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  // box-shadow: rgba(0, 0, 0, 0.25) 0px 0px 4px 2px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
 
   footer {
     @include clearfix;
